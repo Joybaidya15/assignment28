@@ -1,0 +1,78 @@
+
+@media all and (max-width: 1201px){
+   
+    textarea {
+        
+        width: 463px;
+    }
+    .form {
+        background-color: #ffff;
+        box-shadow: 2px 3px 8px 7px rgb(216, 216, 247);
+        width: 483px;
+    }
+
+}
+
+@media all and (max-width: 980px){
+
+  
+    textarea {
+       
+        width: 382px;
+    }
+    .form {
+    
+        width: 400px;
+    }
+}
+@media all and (max-width: 772px){
+
+    .imageee img{
+        visibility: hidden;
+        opacity: 0;
+    }
+    .form{
+        text-align: center;
+        margin: auto;
+    }
+    .bappy {
+        width: 741px !important;
+        text-align: center !important;
+    }
+    .last {
+        margin: auto;
+        text-align: center;
+    }
+    .card {
+      
+        margin-top: 39px;
+        padding-top: 0px;
+    }
+}
+@media all and (max-width: 689px){
+    .bappy {
+        width: 689px !important;
+        text-align: center !important;
+        margin: 0;
+    }
+}
+@media all and (max-width: 584px){
+    .bappy {
+        width: 584px !important;
+        text-align: center !important;
+        margin: 0;
+    }
+}
+@media all and (max-width: 627px){
+    .bappy {
+        width: 617px !important;
+        text-align: center !important;
+        margin: 0;
+    }
+}
+@media all and (max-width: 531px){
+    .bappy {
+        width: 531px !important;
+        text-align: center !important;
+    }
+}
