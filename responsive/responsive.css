@@ -49,6 +49,12 @@
         padding-top: 0px;
     }
 }
+@media all and (max-width: 699px){
+    .bappy {
+        width: 700px !important;
+       
+    }
+}
 @media all and (max-width: 689px){
     .bappy {
         width: 689px !important;
@@ -70,9 +76,27 @@
         margin: 0;
     }
 }
+@media all and (max-width: 575px){
+    .bappy {
+        width: 575px !important;
+       
+    }
+}
 @media all and (max-width: 531px){
     .bappy {
         width: 531px !important;
         text-align: center !important;
     }
 }
+@media all and (max-width: 498px){
+    .bappy {
+        width: 495px !important;
+       
+    }
+}
+    @media all and (max-width: 493px){
+        .bappy {
+            width: 470px !important;
+           
+        }
+    }
